@@ -69,7 +69,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="implementation.template.cpp" />
+    <None Include="implementation.template" />
     <None Include="Project 3.txt" />
   </ItemGroup>
   <ItemGroup>

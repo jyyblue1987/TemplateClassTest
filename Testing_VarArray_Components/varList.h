@@ -30,6 +30,6 @@ private:
  int size;   // array size
 };
 
-#include "implementation.template.cpp"  //very important to include this template file where your methods need to be implemented.
+#include "implementation.template"  //very important to include this template file where your methods need to be implemented.
 
 #endif /* VARLIST_H */

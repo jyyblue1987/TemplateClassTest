@@ -10,6 +10,15 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="implementation.template" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="varList.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A202EBF6-1059-496E-BC65-29D5858AE08F}</ProjectGuid>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
@@ -68,15 +77,6 @@
       </AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <None Include="implementation.template">
-      <FileType>CppCode</FileType>
-    </None>
-    <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="varList.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

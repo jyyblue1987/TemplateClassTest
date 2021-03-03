@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Testing_VarArray_Components", "Testing_VarArray_Components\Testing_VarArray_Components.vcxproj", "{BE3C0880-F28D-4C3D-BBEA-0CB05351C9C1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VarArray_Project", "..\VarArray_Project\VarArray_Project\VarArray_Project.vcxproj", "{A202EBF6-1059-496E-BC65-29D5858AE08F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VarArray_Project", "VarArray_Project\VarArray_Project.vcxproj", "{A202EBF6-1059-496E-BC65-29D5858AE08F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

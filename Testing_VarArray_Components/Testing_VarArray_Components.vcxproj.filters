@@ -16,9 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Project 3.txt" />
-    <None Include="implementation.template.cpp">
-      <Filter>Source Files</Filter>
-    </None>
+    <None Include="implementation.template" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="testMain.cpp">
